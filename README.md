@@ -2,13 +2,18 @@
 > Um CRUD simples, desenvolvido com PHP, utilizando o padrão de projeto MVC
 
 ![crud-mvc](https://user-images.githubusercontent.com/54513989/87372080-139e6700-c55d-11ea-87e8-e9b02eeecbd2.png)
+
 Este CRUD foi criado apenas para fins de aprendizado e portanto os dados aqui apresentados foram gerados artificialmente.
 
+## Tecnologias utilizadas
+* Frontend: [Spectre.css](https://picturepan2.github.io/spectre/index.html)
+* Backend: PHP
+* Banco de Dados: MySQL
 
-## Requisitos
+## Requisito
 [XAMPP](https://www.apachefriends.org/pt_br/index.html)
 
-## Configuração para Desenvolvimento
+## Configuração para desenvolvimento
 
 * Banco de Dados:
   * Criar um banco de dados no [phpMyAdmin](http://localhost/phpmyadmin/)
